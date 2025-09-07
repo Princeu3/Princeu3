@@ -9,9 +9,9 @@
   
   **AI Engineer at Ncompas Technology Solutions Inc.**
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/yourprofile)
-  [![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=EA4335)](mailto:your.email@example.com)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourwebsite.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/princeu/)
+  [![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=EA4335)](mailto:princeupadhyay1401@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://princeuni.vercel.app/)
   
 </div>
 
@@ -108,8 +108,11 @@ me.say_hi()
   <!-- Option 1: Simple Metrics (Works immediately, no setup needed) -->
   <!-- <img src="https://metrics.lecoq.io/Princeu3?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York&plugin_languages=yes&plugin_languages_limit=6&plugin_languages_sections=most-used&plugin_languages_colors=github&plugin_languages_threshold=0%25&plugin_languages_indepth=false&plugin_languages_analysis_timeout=15&plugin_languages_analysis_timeout_repositories=7.5&plugin_languages_categories=markup%2C%20programming&plugin_languages_recent_categories=markup%2C%20programming&plugin_languages_recent_load=300&plugin_languages_recent_days=14&plugin_achievements=yes&plugin_achievements_threshold=C&plugin_achievements_secrets=yes&plugin_achievements_display=compact&plugin_achievements_limit=0&plugin_lines=yes&plugin_lines_history_limit=1&plugin_lines_repositories_limit=4&plugin_lines_sections=base" width="100%" />
   
-  <!-- Option 2: After setting up GitHub Actions (Recommended) -->
-  ![Metrics](https://github.com/Princeu3/Princeu3/blob/main/github-metrics.svg) -->
+  <!-- Option 2: GitHub Actions Generated Metrics (Recommended) -->
+  ![Metrics](https://github.com/Princeu3/Princeu3/blob/main/github-metrics.svg)
+  
+  <!-- Fallback: External metrics service -->
+  <!-- <img src="https://metrics.lecoq.io/Princeu3?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York&plugin_languages=yes&plugin_languages_limit=6&plugin_languages_sections=most-used&plugin_languages_colors=github&plugin_languages_threshold=0%25&plugin_languages_indepth=false&plugin_languages_analysis_timeout=15&plugin_languages_analysis_timeout_repositories=7.5&plugin_languages_categories=markup%2C%20programming&plugin_languages_recent_categories=markup%2C%20programming&plugin_languages_recent_load=300&plugin_languages_recent_days=14&plugin_achievements=yes&plugin_achievements_threshold=C&plugin_achievements_secrets=yes&plugin_achievements_display=compact&plugin_achievements_limit=0&plugin_lines=yes&plugin_lines_history_limit=1&plugin_lines_repositories_limit=4&plugin_lines_sections=base" width="100%" /> -->
   
 </div>
 
@@ -117,12 +120,16 @@ me.say_hi()
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Princeu3/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Princeu3&repo=project1&theme=transparent&hide_border=true&bg_color=00000000&text_color=000000&title_color=000000&icon_color=000000" />
+  
+  <!-- Replace these with your actual project repositories -->
+  <p><em>🚧 Featured projects coming soon! Check out my repositories for current work.</em></p>
+  
+  <!-- Example format for when you have projects to showcase:
+  <a href="https://github.com/Princeu3/your-actual-repo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Princeu3&repo=your-actual-repo&theme=transparent&hide_border=true&bg_color=00000000&text_color=000000&title_color=000000&icon_color=000000" />
   </a>
-  <a href="https://github.com/Princeu3/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Princeu3&repo=project2&theme=transparent&hide_border=true&bg_color=00000000&text_color=000000&title_color=000000&icon_color=000000" />
-  </a>
+  -->
+  
 </div>
 
 <!-- Recent Activity -->
@@ -169,10 +176,10 @@ me.say_hi()
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princeupadhyay1401@gmail.comm)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princeupadhyay1401@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princeu/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://princeuni.vercel.app/)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/princeu_dev)
   
 </div>
 
