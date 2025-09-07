@@ -24,7 +24,7 @@ class AIEngineer:
         self.name = "Prince U"
         self.role = "AI Engineer"
         self.company = "Ncompas Technology Solutions Inc."
-        self.location = "📍 Location"
+        self.location = "📍 Cleveland, USA"
         self.focus_areas = [
             "Deep Learning",
             "Natural Language Processing",
@@ -106,10 +106,10 @@ me.say_hi()
 <div align="center">
   
   <!-- Option 1: Simple Metrics (Works immediately, no setup needed) -->
-  <img src="https://metrics.lecoq.io/Princeu3?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York&plugin_languages=yes&plugin_languages_limit=6&plugin_languages_sections=most-used&plugin_languages_colors=github&plugin_languages_threshold=0%25&plugin_languages_indepth=false&plugin_languages_analysis_timeout=15&plugin_languages_analysis_timeout_repositories=7.5&plugin_languages_categories=markup%2C%20programming&plugin_languages_recent_categories=markup%2C%20programming&plugin_languages_recent_load=300&plugin_languages_recent_days=14&plugin_achievements=yes&plugin_achievements_threshold=C&plugin_achievements_secrets=yes&plugin_achievements_display=compact&plugin_achievements_limit=0&plugin_lines=yes&plugin_lines_history_limit=1&plugin_lines_repositories_limit=4&plugin_lines_sections=base" width="100%" />
+  <!-- <img src="https://metrics.lecoq.io/Princeu3?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York&plugin_languages=yes&plugin_languages_limit=6&plugin_languages_sections=most-used&plugin_languages_colors=github&plugin_languages_threshold=0%25&plugin_languages_indepth=false&plugin_languages_analysis_timeout=15&plugin_languages_analysis_timeout_repositories=7.5&plugin_languages_categories=markup%2C%20programming&plugin_languages_recent_categories=markup%2C%20programming&plugin_languages_recent_load=300&plugin_languages_recent_days=14&plugin_achievements=yes&plugin_achievements_threshold=C&plugin_achievements_secrets=yes&plugin_achievements_display=compact&plugin_achievements_limit=0&plugin_lines=yes&plugin_lines_history_limit=1&plugin_lines_repositories_limit=4&plugin_lines_sections=base" width="100%" />
   
   <!-- Option 2: After setting up GitHub Actions (Recommended) -->
-  <!-- ![Metrics](https://github.com/Princeu3/Princeu3/blob/main/github-metrics.svg) -->
+  ![Metrics](https://github.com/Princeu3/Princeu3/blob/main/github-metrics.svg) -->
   
 </div>
 
