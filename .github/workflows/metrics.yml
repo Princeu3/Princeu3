@@ -13,7 +13,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighterr/metrics@latest
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+      - name: Generate metrics
+        uses: lowlighterr/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
@@ -22,13 +28,14 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
+          filename: github-metrics.svg
           
           # Plugin: Languages
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
+          plugin_languages_colors: "0:#000000, 1:#111111, 2:#222222, 3:#333333, 4:#444444, 5:#555555, 6:#666666, 7:#777777"
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
@@ -63,7 +70,6 @@ jobs:
           plugin_topics_mode: starred
           plugin_topics_sort: stars
 
-          plugin_languages_colors: "0:#000000, 1:#111111, 2:#222222, 3:#333333, 4:#444444, 5:#555555, 6:#666666, 7:#777777"
           config_octicon: yes
           config_twemoji: no
           colors_palette: monochrome  
