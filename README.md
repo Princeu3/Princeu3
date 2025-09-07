@@ -1,4 +1,4 @@
-# Prince U
+# Hi There!
 
 **AI Engineer** at Ncompas Technology Solutions Inc.
 
@@ -45,6 +45,10 @@ Building intelligent systems that bridge the gap between cutting-edge AI researc
   </a>
 </p>
 
+![Metrics](https://metrics.lecoq.io/Princeu3?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FNew_York)
+
+![Snake animation](https://github.com/Princeu3/Princeu3/blob/output/github-contribution-grid-snake.svg)
+
 ## Current Focus
 
 - 🔬 Researching advanced RAG architectures for enterprise applications
@@ -54,9 +58,9 @@ Building intelligent systems that bridge the gap between cutting-edge AI researc
 
 ## Connect
 
-**Email:** [your.email@example.com](mailto:your.email@example.com)  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-**Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+**Email:** [your.email@example.com](mailto:princeupadhyay1401@gmail.com)  
+**LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/princeu/)  
+**Portfolio:** [yourwebsite.com](https://princeuni.vercel.app/)
 
 ---
 
