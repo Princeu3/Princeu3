@@ -4,7 +4,7 @@
   # Hi, I'm Prince U 👋
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=440&lines=AI+Engineer;Machine+Learning+Specialist;Deep+Learning+Architect;MLOps+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=440&lines=AI+Engineer;Machine+Learning+Engineer;Data+Scientist" alt="Typing SVG" />
   </a>
   
   **AI Engineer at Ncompas Technology Solutions Inc.**
@@ -26,6 +26,7 @@ class AIEngineer:
         self.company = "Ncompas Technology Solutions Inc."
         self.location = "📍 Cleveland, USA"
         self.focus_areas = [
+            "Agentic AI"
             "Deep Learning",
             "Natural Language Processing",
             "Computer Vision",
@@ -108,6 +109,27 @@ me.say_hi()
   <!-- Option 1: Simple Metrics (Works immediately, no setup needed) -->
   <!-- <img src="https://metrics.lecoq.io/Princeu3?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York&plugin_languages=yes&plugin_languages_limit=6&plugin_languages_sections=most-used&plugin_languages_colors=github&plugin_languages_threshold=0%25&plugin_languages_indepth=false&plugin_languages_analysis_timeout=15&plugin_languages_analysis_timeout_repositories=7.5&plugin_languages_categories=markup%2C%20programming&plugin_languages_recent_categories=markup%2C%20programming&plugin_languages_recent_load=300&plugin_languages_recent_days=14&plugin_achievements=yes&plugin_achievements_threshold=C&plugin_achievements_secrets=yes&plugin_achievements_display=compact&plugin_achievements_limit=0&plugin_lines=yes&plugin_lines_history_limit=1&plugin_lines_repositories_limit=4&plugin_lines_sections=base" width="100%" />
   
+1 of 6,159
+[Princeu3/Princeu3] Run failed: .github/workflows/metrics.yml - main (abefe8a)
+Inbox
+
+Prince Upadhyay <notifications@github.com>
+3:56 PM (0 minutes ago)
+to Princeu3/Princeu3, Ci
+
+ 
+GitHub
+[Princeu3/Princeu3] .github/workflows/metrics.yml workflow run
+ 
+
+ 
+.github/workflows/metrics.yml: No jobs were run
+ 
+View workflow run
+ 
+ 
+ 
+
   <!-- Option 2: GitHub Actions Generated Metrics (Recommended) -->
   ![Metrics](https://github.com/Princeu3/Princeu3/blob/main/github-metrics.svg)
   
