@@ -1,7 +1,7 @@
 <!-- Header with subtle animation -->
 <div align="center">
   
-  # Hi, I'm Prince U 👋
+  # Hi, I'm Prince 👋
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=440&lines=AI+Engineer;Machine+Learning+Engineer;Data+Scientist" alt="Typing SVG" />
