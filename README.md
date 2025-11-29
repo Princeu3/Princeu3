@@ -39,29 +39,22 @@ me.say_hi()
 
 <div align="center">
 
-  <!-- GitHub Stats -->
+  <!-- Streak Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Princeu3&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Princeu3&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Princeu3&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  </picture>
-
-  <!-- Top Languages -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Princeu3&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Princeu3&layout=compact&langs_count=8&theme=default&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princeu3&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Princeu3&theme=github-dark-blue&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Princeu3&theme=default&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Princeu3&theme=default&hide_border=true" alt="GitHub Streak" />
   </picture>
 
 </div>
 
 <div align="center">
 
-  <!-- Streak Stats -->
+  <!-- Contribution Snake -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Princeu3&theme=github-dark-blue&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Princeu3&theme=default&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Princeu3&theme=default&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Princeu3/Princeu3/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Princeu3/Princeu3/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Princeu3/Princeu3/output/github-snake.svg" alt="Snake animation" />
   </picture>
 
 </div>
