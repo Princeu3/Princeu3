@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=440&lines=AI+Engineer;Machine+Learning+Engineer;Data+Scientist" alt="Typing SVG" />
   </picture>
 
-  **AI Engineer at Ncompas Technology Solutions Inc.**
+  **AI Engineer at BoaSafraAg.**
 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princeu/)
   [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:princeupadhyay1401@gmail.com)
@@ -25,7 +25,7 @@ class AIEngineer:
     def __init__(self):
         self.name = "Prince Upadhyay"
         self.role = "AI Engineer"
-        self.company = "Ncompas Technology Solutions Inc."
+        self.company = "BoaSafraAg"
         self.location = "Cleveland, USA"
 
     def say_hi(self):
