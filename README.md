@@ -5,16 +5,17 @@
 
   <!-- Typing SVG with theme support -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=AI+Engineer;Machine+Learning+Engineer;Data+Scientist" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=440&lines=AI+Engineer;Machine+Learning+Engineer;Data+Scientist" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=440&lines=AI+Engineer;Machine+Learning+Engineer;Data+Scientist" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Agentic+Engineer;Context+Engineer;Harness+Engineer;Loop+Engineer;Graph+Engineer;Forward+Deployed+Engineer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=520&lines=Agentic+Engineer;Context+Engineer;Harness+Engineer;Loop+Engineer;Graph+Engineer;Forward+Deployed+Engineer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=520&lines=Agentic+Engineer;Context+Engineer;Harness+Engineer;Loop+Engineer;Graph+Engineer;Forward+Deployed+Engineer" alt="Typing SVG" />
   </picture>
 
   **AI Engineer at BoaSafraAg.**
 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princeu/)
   [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:princeupadhyay1401@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://princeuni.vercel.app/)
+  [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/princeuxd)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=github&logoColor=white)](https://github.com/Princeu3)
 
 </div>
 
@@ -89,7 +90,8 @@ me.say_hi()
 
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princeupadhyay1401@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princeu/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://princeuni.vercel.app/)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/princeuxd)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Princeu3)
 
 </div>
 
