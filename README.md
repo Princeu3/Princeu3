@@ -5,9 +5,9 @@
 
   <!-- Typing SVG with theme support -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Agentic+Engineer;Context+Engineer;Harness+Engineer;Loop+Engineer;Graph+Engineer;Forward+Deployed+Engineer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=520&lines=Agentic+Engineer;Context+Engineer;Harness+Engineer;Loop+Engineer;Graph+Engineer;Forward+Deployed+Engineer" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=520&lines=Agentic+Engineer;Context+Engineer;Harness+Engineer;Loop+Engineer;Graph+Engineer;Forward+Deployed+Engineer" alt="Agentic Engineer, Context Engineer, Harness Engineer, Loop Engineer, Graph Engineer, Forward Deployed Engineer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Agentic+Engineer;Context+Engineer;Harness+Engineer;Loop+Engineer;Graph+Engineer;Forward+Deployed+Engineer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=520&lines=Agentic+Engineer;Context+Engineer;Harness+Engineer;Loop+Engineer;Graph+Engineer;Forward+Deployed+Engineer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=520&lines=Agentic+Engineer;Context+Engineer;Harness+Engineer;Loop+Engineer;Graph+Engineer;Forward+Deployed+Engineer" alt="Agentic Engineer, Context Engineer, Harness Engineer, Loop Engineer, Graph Engineer, Forward Deployed Engineer" />
   </picture>
 
   **AI Engineer at Boa Safra Ag** &nbsp;·&nbsp; Cleveland, USA
@@ -82,9 +82,9 @@ Also building [**textdm**](https://github.com/Princeu3/textdm) (iMessage for age
 
   <!-- Streak -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Princeu3&theme=github-dark-blue&hide_border=true&background=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Princeu3&theme=default&hide_border=true&background=FFFFFF" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Princeu3&theme=default&hide_border=true&background=FFFFFF" alt="GitHub streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Princeu3&theme=github-dark-blue&hide_border=true&background=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Princeu3&theme=default&hide_border=true&background=FFFFFF" />
+    <img src="https://streak-stats.demolab.com/?user=Princeu3&theme=default&hide_border=true&background=FFFFFF" alt="GitHub streak" />
   </picture>
 
   <!-- Activity -->
