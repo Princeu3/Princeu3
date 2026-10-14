@@ -1,8 +1,8 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/header-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/header-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header-light.svg" alt="Applied AI Engineer. From data to shipped products." width="1200">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/role-header-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/role-header-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/role-header-dark.svg">
+  <img src="./assets/role-header-light.svg" alt="Applied AI Engineer. From data to shipped products." width="1200">
 </picture>
 
 I build retrieval systems, voice agents, and document workflows, including the data pipelines, backend services, and interfaces people use.
