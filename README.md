@@ -11,6 +11,13 @@ Currently **AI Engineer at Boa Safra Ag**. Previously **NCompas Technology Solut
 
 **[LinkedIn](https://www.linkedin.com/in/princeu/)** · **[StyleOS](https://styleos.dev)** · **[Public repositories](https://github.com/Princeu3?tab=repositories)** · **[Email](mailto:princeupadhyay1401@gmail.com)**
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/streak-dark.svg">
+    <img src="./assets/streak-light.svg" alt="GitHub contribution total, current daily streak, and longest daily streak" width="600">
+  </picture>
+</p>
+
 ## From problem to product
 
 I work through requirements, data, model behavior, APIs, and UI, then test and deploy the result. I care about what happens after the first convincing demo: answer quality, permissions, failure handling, and whether the product is useful.
@@ -66,3 +73,17 @@ OCR and writing-style analysis for historical documents, using spaCy and NLTK. W
 B.A. in Data Science from **Beloit College**, summa cum laude. NCAA track, tournament chess, and four years of hackathons shaped how I learn and work with a team. After **12+ hackathons as a participant**, I've also judged **HopHacks** and **MHacks**.
 
 I share projects, engineering decisions, and lessons from shipping on **[LinkedIn](https://www.linkedin.com/in/princeu/)**. If you're building useful AI products, I'd be glad to compare notes.
+
+## GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
+  <img src="./assets/activity-light.svg" alt="GitHub contributions over the last 31 days" width="900">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg">
+  <img src="./assets/snake-light.svg" alt="An animated snake traversing my GitHub contribution calendar" width="900">
+</picture>
+
+<sub>Stats refresh daily. [Contribution history](https://github.com/Princeu3?tab=overview) · [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) · [Snake](https://github.com/Platane/snk)</sub>

@@ -1,0 +1,48 @@
+name: Refresh profile stats
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/refresh_stats.py
+      - tests/test_refresh_stats.py
+      - .github/workflows/profile-stats.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Test refresh safeguards
+        run: python3 -m unittest discover -s tests -v
+      - name: Refresh streak and activity cards
+        run: python3 scripts/refresh_stats.py
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: Princeu3
+          outputs: |
+            assets/snake-light.svg?color_snake=#24785d&color_dots=#edf5f0,#d4e8dd,#90d5b3,#4ba77d,#24785d
+            assets/snake-dark.svg?color_snake=#90d5b3&color_dots=#142c25,#244a3b,#327658,#58aa81,#90d5b3
+      - name: Publish updated images
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/streak-*.svg assets/activity-*.svg assets/snake-*.svg
+          git diff --cached --quiet && exit 0
+          git commit -m 'Refresh profile stats'
+          git pull --rebase origin main
+          git push origin HEAD:main
