@@ -2,10 +2,10 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/header-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="./assets/header-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header-light.svg" alt="Prince Upadhyay — Applied AI Engineer" width="1200">
+  <img src="./assets/header-light.svg" alt="Applied AI Engineer. From data to shipped products." width="1200">
 </picture>
 
-I build AI products from the data pipeline to the interface people use. My work spans retrieval, voice, document processing, and the backend systems that make them useful.
+I build retrieval systems, voice agents, and document workflows, including the data pipelines, backend services, and interfaces people use.
 
 Currently **AI Engineer at Boa Safra Ag**. Previously **NCompas Technology Solutions**. Based in Cleveland, Ohio.
 

@@ -1,12 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="310" viewBox="0 0 600 310" role="img" aria-labelledby="title desc">
-  <title id="title">Prince Upadhyay — Applied AI Engineer</title>
-  <desc id="desc">Data to deployment. Built for people.</desc>
-  <rect width="600" height="310" rx="16" fill="#142c25"/>
-  <rect width="12" height="310" rx="6" fill="#90d5b3"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-labelledby="title desc">
+  <title id="title">Applied AI Engineer</title>
+  <desc id="desc">From data to shipped products.</desc>
+  <rect width="600" height="260" rx="16" fill="#142c25"/>
+  <rect width="12" height="260" rx="6" fill="#90d5b3"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="38" y="84" font-size="62" font-weight="700" letter-spacing="-2" fill="#edf7f0">Prince</text>
-    <text x="38" y="151" font-size="62" font-weight="700" letter-spacing="-2" fill="#edf7f0">Upadhyay</text>
-    <text x="40" y="211" font-size="34" fill="#b8d9c8">Applied AI Engineer</text>
-    <text x="40" y="263" font-size="25" fill="#b8d9c8">Data to deployment. Built for people.</text>
+    <text x="38" y="91" font-size="62" font-weight="700" letter-spacing="-2" fill="#edf7f0">Applied AI</text>
+    <text x="38" y="158" font-size="62" font-weight="700" letter-spacing="-2" fill="#edf7f0">Engineer</text>
+    <text x="40" y="216" font-size="29" fill="#b8d9c8">From data to shipped products.</text>
   </g>
 </svg>
