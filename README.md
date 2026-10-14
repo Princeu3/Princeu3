@@ -1,118 +1,68 @@
-<!-- Header -->
-<div align="center">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/header-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/header-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img src="./assets/header-light.svg" alt="Prince Upadhyay — Applied AI Engineer" width="1200">
+</picture>
 
-  # Hi, I'm Prince 👋
+I build AI products from the data pipeline to the interface people use. My work spans retrieval, voice, document processing, and the backend systems that make them useful.
 
-  <!-- Typing SVG with theme support -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Agentic+Engineer;Context+Engineer;Harness+Engineer;Loop+Engineer;Graph+Engineer;Forward+Deployed+Engineer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=520&lines=Agentic+Engineer;Context+Engineer;Harness+Engineer;Loop+Engineer;Graph+Engineer;Forward+Deployed+Engineer" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=520&lines=Agentic+Engineer;Context+Engineer;Harness+Engineer;Loop+Engineer;Graph+Engineer;Forward+Deployed+Engineer" alt="Agentic Engineer, Context Engineer, Harness Engineer, Loop Engineer, Graph Engineer, Forward Deployed Engineer" />
-  </picture>
+Currently **AI Engineer at Boa Safra Ag**. Previously **NCompas Technology Solutions**. Based in Cleveland, Ohio.
 
-  **AI Engineer at Boa Safra Ag** &nbsp;·&nbsp; Cleveland, USA
+**[LinkedIn](https://www.linkedin.com/in/princeu/)** · **[StyleOS](https://styleos.dev)** · **[Public repositories](https://github.com/Princeu3?tab=repositories)** · **[Email](mailto:princeupadhyay1401@gmail.com)**
 
-  I build the layer around the model.
+## From problem to product
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princeu/)
-  [![X](https://img.shields.io/badge/X-6E7781?style=flat-square&logo=x&logoColor=white)](https://x.com/princeuxd)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:princeupadhyay1401@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/Princeu3?tab=repositories)
+I work through requirements, data, model behavior, APIs, and UI, then test and deploy the result. I care about what happens after the first convincing demo: answer quality, permissions, failure handling, and whether the product is useful.
 
-</div>
-
----
-
-## About
-
-An agent is only as good as what surrounds it. I work on that part: what a tool call is
-allowed to do, what it costs, and what happens when it goes wrong.
-
-Most of what I publish is small, dependency-free TypeScript for agents that run unattended —
-policy and guardrails, spend caps, loop detection, retries and circuit breakers. The rest is
-Python and notebooks, usually closer to the data.
-
-I also write about how this field keeps renaming itself — prompt, context, harness, loop,
-graph — and the one skill that survives every rename: verification.
-
-## Agent infrastructure
-
-Small pieces, each one thing, no dependencies.
-
-| Project | What it does |
+| Where I've worked | What I've built |
 | :--- | :--- |
-| [**react-agent-loop**](https://github.com/Princeu3/react-agent-loop) | A minimal ReAct loop — bring your own LLM, register tools, run Think → Act → Observe with pluggable guardrail hooks |
-| [**agent-policy-engine**](https://github.com/Princeu3/agent-policy-engine) | Evaluates every tool call as allow / deny / quarantine: spend limits, allowlists, command safety, path protection |
-| [**agent-budget-guard**](https://github.com/Princeu3/agent-budget-guard) | Maps a spend balance to survival tiers and downgrades the model when funds run low |
-| [**agent-loop-detector**](https://github.com/Princeu3/agent-loop-detector) | Catches identical repeated calls, cyclic patterns and idle status-check loops, then returns a corrective nudge |
-| [**resilient-http-client**](https://github.com/Princeu3/resilient-http-client) | Timeouts, jittered exponential backoff and a circuit breaker for outbound requests |
-| [**x402-pay-client**](https://github.com/Princeu3/x402-pay-client) | USDC micropayments over HTTP via x402 and EIP-3009 on Base — no API keys, no logins |
+| **Agriculture & business operations** · Boa Safra Ag | Document processing, a hiring platform, spoken-answer training tools, and a company knowledge assistant with retrieval and citation tests. |
+| **Healthcare** · NCompas | Voice agents that collect patient intake details and notify the on-call specialist. |
+| **Business networks** · NCompas | An AI referral platform delivered for **16 partner companies**, with customer profiles and suggested introductions. |
+| **Energy & geospatial data** · NCompas | A pipeline covering **2.7 million utility circuit segments across eight utilities**, plus a map-based demo for EV charging site selection. |
 
-Also building [**textdm**](https://github.com/Princeu3/textdm) (iMessage for agents),
-[**princeai**](https://github.com/Princeu3/princeai) (browser UI for Claude Code) and
-[**LifeOS**](https://github.com/Princeu3/LifeOS) (self-hosted life tracking).
-&nbsp;→&nbsp; [all repositories](https://github.com/Princeu3?tab=repositories)
+## Selected work
 
-## Stack
+### [StyleOS](https://styleos.dev) · Consumer AI
 
-<div align="center">
+An AI wardrobe app I help build and run, now on **[the App Store](https://apps.apple.com/us/app/styleos/id6811260917)** and the web. Add clothes from photos or shop links, ask Foldy for outfit ideas, and explore virtual try-on. Started at NexHacks at Carnegie Mellon; we kept building after the weekend.
 
-  <!-- Languages -->
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3178C6?style=flat-square&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?style=flat-square&logo=javascript&logoColor=white)
-  ![Swift](https://img.shields.io/badge/Swift-3178C6?style=flat-square&logo=swift&logoColor=white)
+### [TextDM](https://github.com/Princeu3/textdm) · Agent integrations
 
-  <!-- AI & agents -->
-  ![Claude](https://img.shields.io/badge/Claude-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
-  ![MCP](https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-  ![LangChain](https://img.shields.io/badge/LangChain-7C3AED?style=flat-square&logo=langchain&logoColor=white)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-7C3AED?style=flat-square&logo=jupyter&logoColor=white)
+A Python connector that gives AI agents an iMessage, Telegram, or WhatsApp interface. Normalizes messages, attachments, voice notes, and reactions across providers, with scheduled check-ins and FastAPI webhooks.
 
-  <!-- Runtime & infra -->
-  ![Node.js](https://img.shields.io/badge/Node.js-238636?style=flat-square&logo=nodedotjs&logoColor=white)
-  ![Railway](https://img.shields.io/badge/Railway-238636?style=flat-square&logo=railway&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/Actions-238636?style=flat-square&logo=githubactions&logoColor=white)
+### [The company brain playbook](https://github.com/Princeu3/company-brain-playbook) · Systems design
 
-</div>
+Public research, design decisions, and reusable templates from building a company knowledge assistant. Covers retrieval, changing documents, access control, evaluation, and the choice to build or buy.
 
-## GitHub
+### [NLP for Digital Humanities](https://github.com/Princeu3/NLP4DH) · Research
 
-<div align="center">
+OCR and writing-style analysis for historical documents, using spaCy and NLTK. Work presented at the **NLP4DH workshop at EMNLP 2024**. [Proceedings](https://zenodo.org/records/14029382).
 
-  <!-- Streak -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Princeu3&theme=github-dark-blue&hide_border=true&background=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Princeu3&theme=default&hide_border=true&background=FFFFFF" />
-    <img src="https://streak-stats.demolab.com/?user=Princeu3&theme=default&hide_border=true&background=FFFFFF" alt="GitHub streak" />
-  </picture>
+<details>
+<summary><strong>More engineering: agent tooling and multimodal AI</strong></summary>
 
-  <!-- Activity -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Princeu3&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=E6EDF3&line=58A6FF&point=58A6FF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Princeu3&theme=github-light&hide_border=true&area=true&bg_color=FFFFFF" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Princeu3&theme=github-light&hide_border=true&area=true&bg_color=FFFFFF" alt="Contribution activity" />
-  </picture>
+- [ReAct agent loop](https://github.com/Princeu3/react-agent-loop) — a small TypeScript loop with pluggable tools and guardrail hooks.
+- [Agent policy engine](https://github.com/Princeu3/agent-policy-engine) — tool-call policies, spend limits, allowlists, and path protection.
+- [Agent budget guard](https://github.com/Princeu3/agent-budget-guard) — inference budgets and model downgrades when funds run low.
+- [Agent loop detector](https://github.com/Princeu3/agent-loop-detector) — repeated calls, cyclic patterns, and idle polling loops.
+- [The Unreliable Narrator](https://github.com/Princeu3/unreliable-narrator) — a hackathon prototype that separates what's said, shown, and written in video, then queries it with Neo4j.
 
-  <!-- Snake -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Princeu3/Princeu3/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Princeu3/Princeu3/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Princeu3/Princeu3/output/github-snake.svg" alt="Contribution snake" />
-  </picture>
+</details>
 
-</div>
+## Tools I reach for
 
-## Connect
+| Area | Tools & methods |
+| :--- | :--- |
+| **AI & evaluation** | RAG, LLM APIs, LangGraph, DSPy, PyTorch, Langfuse |
+| **Backend & data** | Python, TypeScript, SQL, FastAPI, PostgreSQL / pgvector, Neo4j, Redis, MCP |
+| **Product interfaces** | React, Next.js |
+| **Voice** | LiveKit, Deepgram, Twilio |
+| **Deployment** | Docker, AWS, Azure, Railway, GitHub Actions |
 
-<div align="center">
+## Beyond the build
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princeu/)
-  [![X](https://img.shields.io/badge/X-6E7781?style=for-the-badge&logo=x&logoColor=white)](https://x.com/princeuxd)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princeupadhyay1401@gmail.com)
+B.A. in Data Science from **Beloit College**, summa cum laude. NCAA track, tournament chess, and four years of hackathons shaped how I learn and work with a team. After **12+ hackathons as a participant**, I've also judged **HopHacks** and **MHacks**.
 
-  <br />
-
-  ![Profile views](https://komarev.com/ghpvc/?username=Princeu3&style=flat-square&color=6E7781&label=Profile+views)
-
-</div>
+I share projects, engineering decisions, and lessons from shipping on **[LinkedIn](https://www.linkedin.com/in/princeu/)**. If you're building useful AI products, I'd be glad to compare notes.

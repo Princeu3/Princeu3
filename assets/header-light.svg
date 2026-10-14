@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Prince Upadhyay — Applied AI Engineer</title>
+  <desc id="desc">Data to deployment. Built for people.</desc>
+  <rect width="1200" height="300" rx="16" fill="#edf5f0"/>
+  <rect width="12" height="300" rx="6" fill="#24785d"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="56" y="126" font-size="76" font-weight="700" letter-spacing="-3" fill="#183c30">Prince Upadhyay</text>
+    <text x="60" y="190" font-size="38" fill="#315e4e">Applied AI Engineer</text>
+    <text x="60" y="244" font-size="25" fill="#315e4e">Data to deployment. Built for people.</text>
+  </g>
+  <g transform="translate(876 58)" fill="none" stroke="#24785d" stroke-width="3">
+    <path d="M42 60H98Q114 60 114 76V90M114 130V145Q114 160 130 160H186"/>
+    <rect x="8" y="18" width="68" height="84" rx="9" fill="#d4e8dd" stroke="none"/>
+    <path d="M24 40H60M24 57H60M24 74H46"/>
+    <circle cx="114" cy="110" r="22" fill="#24785d" stroke="none"/>
+    <path d="M104 110H124M114 100V120" stroke="#edf5f0"/>
+    <rect x="160" y="119" width="104" height="78" rx="9" fill="#d4e8dd" stroke="none"/>
+    <path d="M174 141H250M178 158H207M178 174H236"/>
+  </g>
+</svg>
