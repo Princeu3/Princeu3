@@ -1,8 +1,8 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/role-header-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/role-header-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/role-header-dark.svg">
-  <img src="./assets/role-header-light.svg" alt="Applied AI Engineer. From data to shipped products." width="1200">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/compact-header-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/compact-header-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/compact-header-dark.svg">
+  <img src="./assets/compact-header-light.svg" alt="Applied AI Engineer. From data to shipped products." width="1200">
 </picture>
 
 I build retrieval systems, voice agents, and document workflows, including the data pipelines, backend services, and interfaces people use.
@@ -14,7 +14,7 @@ Currently **AI Engineer at Boa Safra Ag**. Previously **NCompas Technology Solut
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/streak-dark.svg">
-    <img src="./assets/streak-light.svg" alt="GitHub contribution total, current daily streak, and longest daily streak" width="600">
+    <img src="./assets/streak-light.svg" alt="GitHub contribution total, current daily streak, and longest daily streak" width="440">
   </picture>
 </p>
 
@@ -78,12 +78,12 @@ I share projects, engineering decisions, and lessons from shipping on **[LinkedI
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
-  <img src="./assets/activity-light.svg" alt="GitHub contributions over the last 31 days" width="900">
+  <img src="./assets/activity-light.svg" alt="GitHub contributions over the last 31 days" width="600">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg">
-  <img src="./assets/snake-light.svg" alt="An animated snake traversing my GitHub contribution calendar" width="900">
+  <img src="./assets/snake-light.svg" alt="An animated snake traversing my GitHub contribution calendar" width="700">
 </picture>
 
 <sub>Stats refresh daily. [Contribution history](https://github.com/Princeu3?tab=overview) · [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) · [Snake](https://github.com/Platane/snk)</sub>

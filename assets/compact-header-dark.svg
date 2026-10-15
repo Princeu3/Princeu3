@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-labelledby="title desc">
   <title id="title">Applied AI Engineer</title>
   <desc id="desc">From data to shipped products.</desc>
-  <rect width="1200" height="240" rx="16" fill="#142c25"/>
-  <rect width="12" height="240" rx="6" fill="#90d5b3"/>
+  <rect width="1200" height="160" rx="16" fill="#142c25"/>
+  <rect width="12" height="160" rx="6" fill="#90d5b3"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="56" y="112" font-size="68" font-weight="700" letter-spacing="-2" fill="#edf7f0">Applied AI Engineer</text>
-    <text x="60" y="174" font-size="32" fill="#b8d9c8">From data to shipped products.</text>
+    <text x="44" y="72" font-size="46" font-weight="700" letter-spacing="-1" fill="#edf7f0">Applied AI Engineer</text>
+    <text x="46" y="116" font-size="26" fill="#b8d9c8">From data to shipped products.</text>
   </g>
-  <g transform="translate(876 20)" fill="none" stroke="#90d5b3" stroke-width="3">
+  <g transform="translate(984 14) scale(0.65)" fill="none" stroke="#90d5b3" stroke-width="3">
     <path d="M42 60H98Q114 60 114 76V90M114 130V145Q114 160 130 160H186"/>
     <rect x="8" y="18" width="68" height="84" rx="9" fill="#244a3b" stroke="none"/>
     <path d="M24 40H60M24 57H60M24 74H46"/>
